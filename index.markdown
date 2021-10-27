@@ -22,6 +22,6 @@ title: Product Manifesto
 
 🔥 Never place blame. That includes yourself. Rather, aim to learn.
 
-🚀 A growth mindset is everything 
+🚀 A growth mindset is everything.
 
 ✂️ YAGNI. Ruthlessly prioritise.
