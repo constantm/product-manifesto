@@ -3,7 +3,6 @@ layout: default
 title: Product Manifesto
 ---
 
-
 # Product Manifesto
 
 💾 Every company is a tech company.
