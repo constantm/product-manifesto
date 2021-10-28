@@ -11,7 +11,7 @@ title: Product Manifesto
 
 🎯 Always know what problem you're solving and for whom. Always go back to this.
 
-🔒 Information security and user privacy is everones's problem.
+🔒 Information security and user privacy is everyone's problem.
 
 ❤️ Never assume malice. Practice empathy.
 
