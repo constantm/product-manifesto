@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Product Manifesto
+title: Product & People Manifesto
 ---
 
-# Product Manifesto
+# Product & People Manifesto
 
 💾 Every company is a tech company.
 
